@@ -1,4 +1,4 @@
 
-# Título del Proyecto - Versión final 
+# Proyecto MS2 
+Versión 1.0.1 - Arreglo Crítico.
 
-Versión 1.0.0 - Lista para el lanzamiento.
