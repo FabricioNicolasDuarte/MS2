@@ -1,2 +1,2 @@
 # Proyecto MS2 
-Versión 1.0.0 - Lista para el lanzamiento.
+Versión 1.0.1 - Arreglo Crítico.
